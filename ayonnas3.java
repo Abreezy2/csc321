@@ -32,12 +32,12 @@ public class ayonnas3
 		switch (x)
 		{
 			case 1:
-				System.out.println("You won a puppy!");
+				System.out.println("You won a monkey!");
 				break;
 			case 2:
-				System.out.println("you won a dollar!");
+				System.out.println("you won a toy!");
 			case 3,4,5:
-				System.out.println("You won something else");
+				System.out.println("You won a stuffed animal");
 				break;
 			default:
 				System.out.println("Wrong number");
